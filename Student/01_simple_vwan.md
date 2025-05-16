@@ -17,7 +17,7 @@ Ukázka topologie:
 
 ![topology](../images/vwan01.png)
 
-## Success Criteria
+## Kritéria splnění
 
 - Zajistěte, aby VM z různých sítí ve stejném hubu spolu komunikovali
 - Zajistěte, aby VM z různých sítí v různých hubech spolu komunikovali
@@ -26,4 +26,3 @@ Ukázka topologie:
 
 - [What is Virtual WAN?](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
 - [Virtual WAN any-to-any across hubs](https://docs.microsoft.com/azure/virtual-wan/scenario-any-to-any)
-
