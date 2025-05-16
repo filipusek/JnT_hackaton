@@ -1,6 +1,6 @@
 # Challenge 2: 
 
-[< Previous Challenge](01_simple_vwan.md01) - **[Home](../README.md)** - [Next Challenge >](03_isolated_vnets.md)
+[< Previous Challenge](01_simple_vwan.md) - **[Home](../README.md)** - [Next Challenge >](03_isolated_vnets.md)
 
 ## Intro
 
